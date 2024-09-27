@@ -1,0 +1,43 @@
+{
+  "product-list": [
+    {
+      "image": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1724783440/MODEL/ECOM/M1C/M1C-232Z-R60031-92/M1C-232Z-R60031-92_3",
+      "title": "Signature Stripe Cycling Jersey",
+      "price": "$205.00",
+      "id": "775b"
+    },
+    {
+      "image": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1724783629/MODEL/ECOM/M1C/M1C-233Z-R60034-92/M1C-233Z-R60034-92_3",
+      "title": "Collage Print Race Cycling Jersey",
+      "price": "$225.00",
+      "id": "3f68"
+    },
+    {
+      "image": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1724783474/MODEL/ECOM/M1C/M1C-232Z-R60035-74/M1C-232Z-R60035-74_1",
+      "title": "Blue Grey Cycling Jersey",
+      "price": "$205.00",
+      "id": "8378"
+    },
+    {
+      "image": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1724783502/MODEL/ECOM/M1C/M1C-232Z-R60035-79/M1C-232Z-R60035-79_1",
+      "title": "Black Cycling Jersey",
+      "price": "$205.00",
+      "id": "6a45"
+    },
+    {
+      "image": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1724783693/MODEL/ECOM/M1C/M1C-234Z-R60036-38/M1C-234Z-R60036-38_5",
+      "title": "Deep Green Cycling Bib Shorts",
+      "price": "$295.00",
+      "id": "bf07"
+    }
+  ],
+  "addtocart": [
+    {
+      "id": "89cb",
+      "image": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1724783440/MODEL/ECOM/M1C/M1C-232Z-R60031-92/M1C-232Z-R60031-92_3",
+      "name": "Signature Stripe Cycling Jersey",
+      "price": "$205.00",
+      "description": null
+    }
+  ]
+}

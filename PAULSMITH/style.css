@@ -1,0 +1,231 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+/* header */
+
+header {
+    width: 100%;
+    height: 75px;
+    /* background-color: antiquewhite; */
+}
+
+.navbar {
+    width: 98%;
+    height: 74px;
+    /* background-color: aqua; */
+    margin: auto;
+    border-bottom: 10px black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar div {
+    height: 90%;
+    /* width: 100px; */
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .navi ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.navbar .navi ul li {
+    padding: 10px;
+}
+
+.navbar .search input {
+    font-size: 18px;
+    width: 600px;
+    padding: 8px 0px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.navbar .search i {
+    font-size: 18px;
+    border-bottom: 2px black;
+}
+
+.navbar .search input::placeholder {
+    color: rgba(128, 128, 128, 0.651);
+}
+
+.navbar .icons ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.navbar .icons ul li {
+    padding: 10px;
+    font-size: 25px;
+}
+
+
+/* header finish */
+
+
+/* board1 start  */
+
+.board1 {
+    height: 1200px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+}
+
+.board1 div {
+    height: 100%;
+    width: 50%;
+}
+
+
+/* board1 end */
+
+
+/* board2 start  */
+
+.board2 {
+    margin: 8% 0%;
+    height: 1200px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+}
+
+.board2 div {
+    height: 100%;
+    width: 50%;
+    margin: auto;
+}
+
+.board2 .title-paul {
+    height: 100%;
+    width: 50%;
+    margin: 10% auto;
+}
+
+.board2 .title-paul h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.board2 .title-paul p {
+    text-align: center;
+    font-size: 16px;
+}
+
+
+/* board2 end */
+
+
+/* footer start  */
+
+footer {
+    background-color: #111;
+    padding: 40px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 14px;
+}
+
+.footer-section {
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px 0;
+}
+
+.footer-section h3 {
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-section ul li a:hover {
+    text-decoration: underline;
+}
+
+.footer-section.social ul {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    border-top: 1px solid #444;
+    padding-top: 20px;
+}
+
+.footer-bottom p {
+    margin: 5px 0;
+}
+
+.footer-bottom a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-bottom a:hover {
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+    .footer-section {
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+    }
+    .footer-section.social ul {
+        justify-content: center;
+    }
+}
+
+.container-fluid {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-list {
+    width: 100px;
+    height: 100px;
+    background-color: #444;
+}
+
+
+/* footer end  */
+
+
+/* product-section start  */
